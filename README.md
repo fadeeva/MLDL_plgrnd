@@ -21,3 +21,13 @@ Computer Vision:
 - [​Cityscapes](https://www.kaggle.com/datasets/shuvoalok/cityscapes): Pixel-level segmentation for urban scenes.
 - [​MNIST](https://www.kaggle.com/datasets/hojjatk/mnist-dataset): Classic handwritten digits dataset.
 - [​CIFAR-10 & CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html): Tiny image classification datasets.
+
+Recommendation systems:
+- [​Yambda-5B (Yandex)](https://huggingface.co/datasets/yandex/yambda): A 4.79B multimodal interactions with audio embeddings and organic vs recommended flags. The dataset uses a global temporal split for evaluation, which, unlike Leave-One-Out, does not break temporal dependencies. This mimics a realistic model testing.
+- [​MovieLens](https://grouplens.org/datasets/movielens/): Ratings and tags across multiple sizes (100k to 25M).
+- [​Netflix Prize](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data): The iconic 100M rating dataset from Netflix’s public competition.
+- [​Yelp Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset): Local business reviews with metadata and social network features.
+- [​Last.fm (LFM-1B)](https://www.cp.jku.at/datasets/lfm-1b/): 1B music listening events with timestamps and track metadata.
+- [​Criteo 1TB](https://huggingface.co/datasets/criteo/CriteoClickLogs): Massive click-through dataset for ads.
+- [​Spotify Million Playlist](https://www.kaggle.com/datasets/himanshuwagh/spotify-million): User-generated music playlists for sequential recommendation.
+- [​Amazon Reviews](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews): 200M+ product reviews across multiple years and domains.
